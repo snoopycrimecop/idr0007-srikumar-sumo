@@ -1,0 +1,16 @@
+---
+channels:
+    1:
+        active: true
+        color: 00FF00
+        end: 231.0
+        label: GFP
+        start: 0.0
+    2:
+        active: true
+        color: FF0000
+        end: 205.0
+        label: mCherry
+        start: 1.0
+greyscale: false
+version: 2
