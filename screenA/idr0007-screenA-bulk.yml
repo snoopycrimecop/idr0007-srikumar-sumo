@@ -1,4 +1,11 @@
 ---
+continue: "true"
+transfer: "ln_s"
+exclude: "clientpath"
+columns:
+  - name
+  - path
+parallel_upload: "10"
+skip: "all"
 target: "Screen:name:idr0007-srikumar-sumo/screenA"
-include: "../../bulk.yml"
 path: "idr0007-screenA-plates.tsv"
