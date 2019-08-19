@@ -15,8 +15,8 @@ Study Public Release Date	2016-04-27
 																																	
 # Study Publication																																	
 Study PubMed ID	23547032																																
-Study Publication Title	Global analysis of SUMO chain function reveals multiple roles in chromatin regulation																																
-Study Author List	Srikumar T, Lewicki MC, Costanzo M, Tkach JM, van Bakel H, Tsui K, Johnson ES, Brown GW, Andrews BJ, Boone C, Giaever G, Nislow C, Raught B.																																
+Study Publication Title	Global analysis of SUMO chain function reveals multiple roles in chromatin regulation.																																
+Study Author List	Srikumar T, Lewicki MC, Costanzo M, Tkach JM, van Bakel H, Tsui K, Johnson ES, Brown GW, Andrews BJ, Boone C, Giaever G, Nislow C, Raught B																																
 Study PMC ID	PMC3613684																																
 Study DOI	http://dx.doi.org/10.1083/jcb.201210019																																
 																																	
